@@ -1,0 +1,47 @@
+[
+    {
+        "cover_img": "https://i.ibb.co/02TMZW2/12587258-251-Fashion-sale-facebook-cover-page-template.jpg",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/ch8B5dY/young-bearded-man-with-striped-shirt.jpgg",
+        "post_data": "2023-11-04",
+        "read_time": "10 minutes",
+        "hashTags": ["programming", "coding", "development"]
+    },
+    {
+        "cover_img": "https://i.ibb.co/9wnDz5Y/32662558-7964736.jpg",
+        "title": "Cooking with Flavors",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/author_image2.jpg",
+        "post_data": "2023-11-05",
+        "read_time": "15 minutes",
+        "hashTags": ["cooking", "food", "recipes"]
+    },
+    {
+        "cover_img": "https://i.ibb.co/02TMZW2/12587258-251-Fashion-sale-facebook-cover-page-template.jpg",
+        "title": "Traveling the World",
+        "author": "Alice Johnson",
+        "author_img": "https://example.com/author_image3.jpg",
+        "post_data": "2023-11-06",
+        "read_time": "20 minutes",
+        "hashTags": ["travel", "adventure", "explore"]
+    },
+    {
+        "cover_img": "https://i.ibb.co/9wnDz5Y/32662558-7964736.jpg",
+        "title": "The Science of Space",
+        "author": "David Williams",
+        "author_img": "https://i.ibb.co/ch8B5dY/young-bearded-man-with-striped-shirt.jpg",
+        "post_data": "2023-11-07",
+        "read_time": "12 minutes",
+        "hashTags": ["space", "science", "astronomy"]
+    },
+    {
+        "cover_img": "https://i.ibb.co/02TMZW2/12587258-251-Fashion-sale-facebook-cover-page-template.jpg",
+        "title": "Healthy Lifestyle Tips",
+        "author": "Ella Brown",
+        "author_img": "https://i.ibb.co/ch8B5dY/young-bearded-man-with-striped-shirt.jpg",
+        "post_data": "2023-11-08",
+        "read_time": "8 minutes",
+        "hashTags": ["health", "fitness", "wellness"]
+    }
+]
